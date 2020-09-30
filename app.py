@@ -25,7 +25,7 @@ class expenseTracker:
 
         self.root.configure(background="#c6e5d9")
         # to load the icon
-        self.root.iconbitmap(r'C:\Users\SHREYA\PycharmProjects\expensetracker\icon\money1.ico')
+        self.root.iconbitmap(r'C:\Users\acer\PycharmProjects\expensetracker\icon\money1.ico')
 
         self.loadLoginGUI()
         self.root.mainloop()
